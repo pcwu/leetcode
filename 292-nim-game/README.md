@@ -13,7 +13,7 @@ For example, if there are 4 stones in the heap, then you will never win the game
 
 本來這樣寫，但排名只比36%的快
 
-```Python
+```python
 class Solution(object):
     def canWinNim(self, n):
         """
@@ -25,7 +25,7 @@ class Solution(object):
 
 後來改成這樣，就比96%的人快了
 
-```Python
+```python
 class Solution(object):
     def canWinNim(self, n):
         """
