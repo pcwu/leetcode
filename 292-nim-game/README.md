@@ -10,3 +10,27 @@ Both of you are very clever and have optimal strategies for the game. Write a fu
 For example, if there are 4 stones in the heap, then you will never win the game: no matter 1, 2, or 3 stones you remove, the last stone will always be removed by your friend.
 
 ## Code
+
+本來這樣寫，但排名只比36%的快
+
+```Python
+class Solution(object):
+    def canWinNim(self, n):
+        """
+        :type n: int
+        :rtype: bool
+        """
+        return n % 4 != 0
+```
+
+後來改成這樣，就比96%的人快了
+
+```Python
+class Solution(object):
+    def canWinNim(self, n):
+        """
+        :type n: int
+        :rtype: bool
+        """
+        return bool(n % 4)
+```
