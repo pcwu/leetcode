@@ -5,9 +5,9 @@ LeetCode Practice
 
 |No|Title|Solution|Result|Date|
 |----|------|------|------|-----|
-|001|[Two Sum](https://leetcode.com/problems/two-sum)|[Python](001-two-sum)|-|2016-11-19|
-|002|[Add Two Numbers  ](https://leetcode.com/problems/add-two-numbers)|[Python](002-add-two-numbers)|-|2016-11-19|
-|003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Python](003-longest-substring-without-repeating-characters)|-|2016-11-18|
+|001|[Two Sum](https://leetcode.com/problems/two-sum)|[Python](001-two-sum)|AC|2016-11-19|
+|002|[Add Two Numbers  ](https://leetcode.com/problems/add-two-numbers)|[Python](002-add-two-numbers)|AC|2016-11-19|
+|003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Python](003-longest-substring-without-repeating-characters)|TLE|2016-11-19|
 |136|[Single Number](https://leetcode.com/problems/single-number)|[Python](136-single-number)|-|2016-11-19|
 |292|[Nim Game](https://leetcode.com/problems/nim-game)|[Python](292-nim-game)|AC|2016-11-19|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string)|[Python](344-reverse-string)|AC|2016-11-18|
