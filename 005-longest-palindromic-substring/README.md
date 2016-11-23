@@ -54,3 +54,10 @@ class Solution(object):
         else:
             return ans
 ```
+
+
+討論區有介紹 O(n)的演算法：
+
+https://discuss.leetcode.com/topic/57595/o-n-python-solution-with-manacher-s-algorithm
+
+https://www.felix021.com/blog/read.php?2040
