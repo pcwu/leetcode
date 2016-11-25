@@ -7,12 +7,17 @@ class Solution(object):
         :type height: List[int]
         :rtype: int
         """
-        result = 0
-        for i in xrange(len(height)):
-            for j in xrange(len(height)):
-                if min(height[i], height[j]) * abs(i - j) > result:
-                    result = min(height[i], height[j]) * abs(i - j)
+        left = 0
+        right = len(height) - 1
+        result = min(height[left], height[right]) * (right - left)
+
+        while left < right:
+            if height[left] > height[right]:
+                right = right - 1
+            else:
+                left = left + 1
+            result = max(result, min(height[left], height[right]) * (right - left))
 
         return result
 
-print Solution().maxArea([3, 3, 10, 6, 7, 5])
+print Solution().maxArea([30, 3, 10, 6, 7, 5])
