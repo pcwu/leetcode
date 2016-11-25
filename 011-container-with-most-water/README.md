@@ -25,6 +25,12 @@ class Solution(object):
 
 https://discuss.leetcode.com/topic/35117/share-my-short-java-code-with-%E4%B8%AD%E6%96%87-explanation/2
 
+證明在這：
+
+https://discuss.leetcode.com/topic/503/anyone-who-has-a-o-n-algorithm/2
+
+還沒看完
+
 ```python
 class Solution(object):
     def maxArea(self, height):
