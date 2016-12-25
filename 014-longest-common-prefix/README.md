@@ -1,9 +1,10 @@
-014. Longest Common Prefix
+014.Longest Common Prefix
 ========
 
 
 
-## Code
+Code
+---------
 
 ```python
 class Solution(object):

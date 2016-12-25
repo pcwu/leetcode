@@ -1,7 +1,8 @@
-Two Sum
+001.Two Sum
 ========
 
-## Problem Description
+Problem Description
+--------
 
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 
@@ -9,7 +10,8 @@ You may assume that each input would have exactly one solution.
 
 
 
-## Code
+Code
+--------
 
 這樣寫最直觀，但只比22%的人快。時間複雜度為O(n^2)，額外的空間需求為O(1)。
 把2個range改成xrange後反而變慢了，原因不明。

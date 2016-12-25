@@ -1,4 +1,4 @@
-002. Add Two Numbers
+002.Add Two Numbers
 ========
 
 You are given two linked lists representing two non-negative numbers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
@@ -9,7 +9,8 @@ __Output:__ 7 -> 0 -> 8
 
 
 
-## Code
+Code
+---------
 
 這樣寫簡單測試以為會過了，但沒料到測資有2個linked list 長度不同的問題。
 

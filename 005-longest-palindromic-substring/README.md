@@ -5,7 +5,8 @@ Given a string s, find the longest palindromic substring in s. You may assume th
 
 
 
-## Code
+Code
+--------
 
 把string每個字走一次當種子，前後延伸看是否合要求，但只比16%的快。
 

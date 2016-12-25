@@ -1,12 +1,13 @@
 LeetCode Practice
 =====================
 
-## Algorithm Problems
+Algorithm Problems
+---------------------
 
 |No|Title|Solution|Result|Difficulty|Date|
-|----|------|------|------|-----|
+|----|------|------|------|-----|-----|
 |001|[Two Sum](https://leetcode.com/problems/two-sum)|[Python](001-two-sum)|AC|Easy|2016-11-19|
-|002|[Add Two Numbers  ](https://leetcode.com/problems/add-two-numbers)|[Python](002-add-two-numbers)|AC|Medium|2016-11-19|
+|002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Python](002-add-two-numbers)|AC|Medium|2016-11-19|
 |003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Python](003-longest-substring-without-repeating-characters)|TLE|Medium|2016-11-19|
 |005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|[Python](005-longest-palindromic-substring)|AC|Medium|2016-11-22|
 |006|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion)|[Python](006-zigzag-conversion)|AC|Easy|2016-11-23|
@@ -21,6 +22,9 @@ LeetCode Practice
 
 
 
-## Reference
+
+
+Reference
+---------------
 
 [Python No.1-No.200 Solution](https://shenjie1993.gitbooks.io/leetcode-python/content/)
