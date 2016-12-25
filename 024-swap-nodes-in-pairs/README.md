@@ -27,7 +27,7 @@ class Solution(object):
         return result.next
 ```
 
-別人寫類似的想法，但清爽很多：
+別人寫類似的想法，但清爽很多(其實我不需要2個指標來指)：
 
 ```python
 def swapPairs(self, head):
