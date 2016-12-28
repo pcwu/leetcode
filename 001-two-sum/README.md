@@ -10,7 +10,7 @@ You may assume that each input would have exactly one solution.
 
 
 
-Code
+Code - Python
 --------
 
 這樣寫最直觀，但只比22%的人快。時間複雜度為O(n^2)，額外的空間需求為O(1)。
@@ -41,4 +41,26 @@ class Solution(object):
                 return [buff_dict[nums[i]], i]
             else:
                 buff_dict[target - nums[i]] = i
+```
+
+Code - Javascript
+
+```javascript
+
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
+const twoSum = function (nums, target) {
+  const map = {};
+  for (let i = 0; i <= nums.length; i += 1) {
+    if (map[target - nums[i]] !== undefined) {
+      return [map[target - nums[i]], i];
+    }
+    map[nums[i]] = i;
+  }
+  return [];
+};
+
 ```

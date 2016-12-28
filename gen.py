@@ -4,15 +4,16 @@ import os
 import sys
 import re
 
-print """|No|Date|Solution|Code|
+print """|No|Date|Problem|Code|
 |----|------|------|------|"""
 
 for root, subdirs, files in os.walk("./"):
     for filename in files:
         path = os.path.join(root, filename)
-        match = re.search(r"\.\/(\d+)-(.+)/.+py", path)
+        match = re.search(r"\.\/(\d+)-(.+)/(.+[py|js])", path)
         if match:
             num = match.group(1)
             name = match.group(2)
+            code = match.group(3)
             date = os.popen("git log --date=format:'%%Y-%%m-%%d' --format=%%ad %s | tail -1 " % path).read().rstrip()
-            print "|%s|%s|[%s](https://leecode.com/problems/%s)|[Code](%s)|" % (num, date, name, name, path.split("/")[1])
+            print "|%s|%s|[%s](%s/)-[leetcode](https://leetcode.com/problems/%s/)|[%s](%s/)|" % (num, date, name, name, name, code, path.split("/")[1])
