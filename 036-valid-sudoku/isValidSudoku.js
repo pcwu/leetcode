@@ -3,10 +3,17 @@
  * @return {boolean}
  */
 const isValidSudoku = (board) => {
+  const block = [];
   for (let i = 0; i < 9; i += 1) {
-    const row = {};
-    const col = {};
-    const block = {};
+    block[i] = [];
+    for (let j = 0; j < 9; j += 1) {
+      block[i][j] = [];
+    }
+  }
+
+  for (let i = 0; i < 9; i += 1) {
+    const row = [];
+    const col = [];
     for (let j = 0; j < 9; j += 1) {
       if (row[board[i][j]] !== undefined || col[board[j][i]] !== undefined) {
         return false;
@@ -21,7 +28,7 @@ const isValidSudoku = (board) => {
         col[board[j][i]] = true;
       }
       if (board[i][j] !== '.') {
-        block[Math.trunc(i / 3)][Math.trunc(j / 3)][board[j][i]] = true;
+        block[Math.trunc(i / 3)][Math.trunc(j / 3)][board[i][j]] = true;
       }
     }
   }
