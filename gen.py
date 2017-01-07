@@ -16,4 +16,4 @@ for root, subdirs, files in os.walk("./"):
             name = match.group(2)
             code = match.group(3)
             date = os.popen("git log --date=format:'%%Y-%%m-%%d' --format=%%ad %s | tail -1 " % path).read().rstrip()
-            print "|%s|%s|[%s](%s/)-[leetcode](https://leetcode.com/problems/%s/)|[%s](%s/)|" % (num, date, name, name, name, code, path.split("/")[1])
+            print "|%s|%s|[%s](%s/) ([leetcode website](https://leetcode.com/problems/%s/))|[%s](%s/)|" % (num, date, name, name, name, code, path.split("/")[1])
