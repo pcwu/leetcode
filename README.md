@@ -31,12 +31,14 @@ Algorithm Problems
 |066|2017-01-07|[plus-one](https://leetcode.com/problems/plus-one/)|[plusOne.js](066-plus-one/)|
 |067|2017-01-07|[add-binary](https://leetcode.com/problems/add-binary/)|[addBinary.py](067-add-binary/)|
 |070|2017-01-07|[climbing-stairs](https://leetcode.com/problems/climbing-stairs/)|[climbStairs.js](070-climbing-stairs/)|
+|083|2017-01-07|[remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[deleteDuplicates.js](083-remove-duplicates-from-sorted-list/)|
+|088|2017-01-07|[merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/)|[merge.js](088-merge-sorted-array/)|
+|100|2017-01-07|[same-tree](https://leetcode.com/problems/same-tree/)|[isSameTree.js](100-same-tree/)|
 |136|2016-11-19|[single-number](https://leetcode.com/problems/single-number/)|[singleNumber.py](136-single-number/)|
 |292|2016-11-19|[nim-game](https://leetcode.com/problems/nim-game/)|[nimGame.py](292-nim-game/)|
 |344|2016-11-19|[reverse-string](https://leetcode.com/problems/reverse-string/)|[reverseString.py](344-reverse-string/)|
 |371|2016-11-19|[sum-of-two-integers](https://leetcode.com/problems/sum-of-two-integers/)|[sumOfTwoIntegers.py](371-sum-of-two-integers/)|
 |412|2016-11-19|[fizz-buzz](https://leetcode.com/problems/fizz-buzz/)|[fizzBuzz.py](412-fizz-buzz/)|
-
 Reference
 ---------------
 
