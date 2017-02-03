@@ -18,6 +18,8 @@ Algorithm Problems
 |012|2016-11-25|[integer-to-roman](https://leetcode.com/problems/integer-to-roman/)|[integerToRoman.py](012-integer-to-roman/)|
 |013|2016-11-25|[roman-to-integer](https://leetcode.com/problems/roman-to-integer/)|[romanToInt.py](013-roman-to-integer/)|
 |014|2016-11-25|[longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/)|[longestCommonPrefix.py](014-longest-common-prefix/)|
+|015|2017-02-03|[3sum](https://leetcode.com/problems/3sum/)|[threeSum.py](015-3sum/)|
+|016|2017-02-03|[3sum-closest](https://leetcode.com/problems/3sum-closest/)|[threeSumClosest.py](016-3sum-closest/)|
 |019|2016-12-19|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[removeNthFromEnd.py](019-remove-nth-node-from-end-of-list/)|
 |020|2016-12-19|[valid-parentheses](https://leetcode.com/problems/valid-parentheses/)|[ValidParentheses.py](020-valid-parentheses/)|
 |021|2016-12-19|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[mergeTwoLists.py](021-merge-two-sorted-lists/)|
@@ -39,6 +41,8 @@ Algorithm Problems
 |344|2016-11-19|[reverse-string](https://leetcode.com/problems/reverse-string/)|[reverseString.py](344-reverse-string/)|
 |371|2016-11-19|[sum-of-two-integers](https://leetcode.com/problems/sum-of-two-integers/)|[sumOfTwoIntegers.py](371-sum-of-two-integers/)|
 |412|2016-11-19|[fizz-buzz](https://leetcode.com/problems/fizz-buzz/)|[fizzBuzz.py](412-fizz-buzz/)|
+
+
 Reference
 ---------------
 
