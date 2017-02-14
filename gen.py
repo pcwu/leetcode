@@ -4,7 +4,10 @@ import os
 import sys
 import re
 
-print """|No|Date|Problem|Code|
+print """LeetCode Practice
+=====================
+
+|No|Date|Problem|Code|
 |----|------|------|------|"""
 
 for root, subdirs, files in os.walk("./"):

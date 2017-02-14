@@ -1,9 +1,6 @@
 LeetCode Practice
 =====================
 
-Algorithm Problems
----------------------
-
 |No|Date|Problem|Code|
 |----|------|------|------|
 |001|2016-12-28|[two-sum](https://leetcode.com/problems/two-sum/)|[twoSum.js](001-two-sum/)|
@@ -30,7 +27,7 @@ Algorithm Problems
 |028|2016-12-28|[implement-strstr](https://leetcode.com/problems/implement-strstr/)|[Strstr.py](028-implement-strstr/)|
 |036|2016-12-29|[valid-sudoku](https://leetcode.com/problems/valid-sudoku/)|[isValidSudoku.js](036-valid-sudoku/)|
 |038|2016-12-29|[count-and-say](https://leetcode.com/problems/count-and-say/)|[countAndSay.py](038-count-and-say/)|
-|058|2017-01-07|[length-of-last-word](https://leetcode.com/problems/length-of-last-word/)|[lengthOfLastWor.py](058-length-of-last-word/)|
+|058|2017-01-07|[length-of-last-word](https://leetcode.com/problems/length-of-last-word/)|[lengthOfLastWord.py](058-length-of-last-word/)|
 |066|2017-01-07|[plus-one](https://leetcode.com/problems/plus-one/)|[plusOne.js](066-plus-one/)|
 |067|2017-01-07|[add-binary](https://leetcode.com/problems/add-binary/)|[addBinary.py](067-add-binary/)|
 |070|2017-01-07|[climbing-stairs](https://leetcode.com/problems/climbing-stairs/)|[climbStairs.js](070-climbing-stairs/)|
@@ -42,19 +39,13 @@ Algorithm Problems
 |107|2017-02-14|[binary-tree-level-order-traversal-ii](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[levelOrderBottom.py](107-binary-tree-level-order-traversal-ii/)|
 |108|2017-02-14|[convert-sorted-array-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[sortedArrayToBST.py](108-convert-sorted-array-to-binary-search-tree/)|
 |110|2017-02-14|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree/)|[isBalanced.py](110-balanced-binary-tree/)|
-|111||[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[minDepth.py](111-minimum-depth-of-binary-tree/)|
-|118||[pascals-triangle](https://leetcode.com/problems/pascals-triangle/)|[generate.py](118-pascals-triangle/)|
-|121||[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[maxProfit.py](121-best-time-to-buy-and-sell-stock/)|
-|122||[best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[maxProfit.py](122-best-time-to-buy-and-sell-stock-ii/)|
-|125||[valid-palindrome](https://leetcode.com/problems/valid-palindrome/)|[isPalindrome.py](125-valid-palindrome/)|
+|111|2017-02-14|[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[minDepth.py](111-minimum-depth-of-binary-tree/)|
+|118|2017-02-14|[pascals-triangle](https://leetcode.com/problems/pascals-triangle/)|[generate.py](118-pascals-triangle/)|
+|121|2017-02-14|[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[maxProfit.py](121-best-time-to-buy-and-sell-stock/)|
+|122|2017-02-14|[best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[maxProfit.py](122-best-time-to-buy-and-sell-stock-ii/)|
+|125|2017-02-14|[valid-palindrome](https://leetcode.com/problems/valid-palindrome/)|[isPalindrome.py](125-valid-palindrome/)|
 |136|2016-11-19|[single-number](https://leetcode.com/problems/single-number/)|[singleNumber.py](136-single-number/)|
 |292|2016-11-19|[nim-game](https://leetcode.com/problems/nim-game/)|[nimGame.py](292-nim-game/)|
 |344|2016-11-19|[reverse-string](https://leetcode.com/problems/reverse-string/)|[reverseString.py](344-reverse-string/)|
 |371|2016-11-19|[sum-of-two-integers](https://leetcode.com/problems/sum-of-two-integers/)|[sumOfTwoIntegers.py](371-sum-of-two-integers/)|
 |412|2016-11-19|[fizz-buzz](https://leetcode.com/problems/fizz-buzz/)|[fizzBuzz.py](412-fizz-buzz/)|
-
-
-Reference
----------------
-
-[Python No.1-No.200 Solution](https://shenjie1993.gitbooks.io/leetcode-python/content/)
