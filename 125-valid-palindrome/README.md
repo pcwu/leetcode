@@ -52,7 +52,7 @@ class Solution(object):
         return True
 ```
 
-別人的程式，相法相同，但稍微精簡：
+別人的程式，想法相同，但稍微精簡：
 
 ```python
 def isPalindrome(self, s):

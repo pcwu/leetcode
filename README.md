@@ -42,6 +42,11 @@ Algorithm Problems
 |107|2017-02-14|[binary-tree-level-order-traversal-ii](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[levelOrderBottom.py](107-binary-tree-level-order-traversal-ii/)|
 |108|2017-02-14|[convert-sorted-array-to-binary-search-tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[sortedArrayToBST.py](108-convert-sorted-array-to-binary-search-tree/)|
 |110|2017-02-14|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree/)|[isBalanced.py](110-balanced-binary-tree/)|
+|111||[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[minDepth.py](111-minimum-depth-of-binary-tree/)|
+|118||[pascals-triangle](https://leetcode.com/problems/pascals-triangle/)|[generate.py](118-pascals-triangle/)|
+|121||[best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[maxProfit.py](121-best-time-to-buy-and-sell-stock/)|
+|122||[best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[maxProfit.py](122-best-time-to-buy-and-sell-stock-ii/)|
+|125||[valid-palindrome](https://leetcode.com/problems/valid-palindrome/)|[isPalindrome.py](125-valid-palindrome/)|
 |136|2016-11-19|[single-number](https://leetcode.com/problems/single-number/)|[singleNumber.py](136-single-number/)|
 |292|2016-11-19|[nim-game](https://leetcode.com/problems/nim-game/)|[nimGame.py](292-nim-game/)|
 |344|2016-11-19|[reverse-string](https://leetcode.com/problems/reverse-string/)|[reverseString.py](344-reverse-string/)|
