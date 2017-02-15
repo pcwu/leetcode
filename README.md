@@ -21,6 +21,7 @@ LeetCode Practice
 |019|2016-12-19|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[removeNthFromEnd.py](019-remove-nth-node-from-end-of-list/)|
 |020|2016-12-19|[valid-parentheses](https://leetcode.com/problems/valid-parentheses/)|[ValidParentheses.py](020-valid-parentheses/)|
 |021|2016-12-19|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[mergeTwoLists.py](021-merge-two-sorted-lists/)|
+|022|2017-02-16|[generate-parentheses](https://leetcode.com/problems/generate-parentheses/)|[generateParenthesis.py](022-generate-parentheses/)|
 |024|2016-12-25|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[swapParis.py](024-swap-nodes-in-pairs/)|
 |026|2016-12-28|[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[removeDuplicates.py](026-remove-duplicates-from-sorted-array/)|
 |027|2016-12-28|[remove-element](https://leetcode.com/problems/remove-element/)|[removeElement.js](027-remove-element/)|
@@ -45,6 +46,7 @@ LeetCode Practice
 |122|2017-02-14|[best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[maxProfit.py](122-best-time-to-buy-and-sell-stock-ii/)|
 |125|2017-02-14|[valid-palindrome](https://leetcode.com/problems/valid-palindrome/)|[isPalindrome.py](125-valid-palindrome/)|
 |136|2016-11-19|[single-number](https://leetcode.com/problems/single-number/)|[singleNumber.py](136-single-number/)|
+|141|2017-02-16|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/)|[hasCycle.py](141-linked-list-cycle/)|
 |292|2016-11-19|[nim-game](https://leetcode.com/problems/nim-game/)|[nimGame.py](292-nim-game/)|
 |344|2016-11-19|[reverse-string](https://leetcode.com/problems/reverse-string/)|[reverseString.py](344-reverse-string/)|
 |371|2016-11-19|[sum-of-two-integers](https://leetcode.com/problems/sum-of-two-integers/)|[sumOfTwoIntegers.py](371-sum-of-two-integers/)|
