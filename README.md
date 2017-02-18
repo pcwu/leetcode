@@ -18,7 +18,7 @@ LeetCode Practice
 |015|2017-02-03|[3sum](https://leetcode.com/problems/3sum/)|[threeSum.py](015-3sum/)|
 |016|2017-02-03|[3sum-closest](https://leetcode.com/problems/3sum-closest/)|[threeSumClosest.py](016-3sum-closest/)|
 |017|2017-02-06|[letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[letterCombinations.py](017-letter-combinations-of-a-phone-number/)|
-|018||[4sum](https://leetcode.com/problems/4sum/)|[fourSum.py](018-4sum/)|
+|018|2017-02-18|[4sum](https://leetcode.com/problems/4sum/)|[fourSum.py](018-4sum/)|
 |019|2016-12-19|[remove-nth-node-from-end-of-list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[removeNthFromEnd.py](019-remove-nth-node-from-end-of-list/)|
 |020|2016-12-19|[valid-parentheses](https://leetcode.com/problems/valid-parentheses/)|[ValidParentheses.py](020-valid-parentheses/)|
 |021|2016-12-19|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[mergeTwoLists.py](021-merge-two-sorted-lists/)|
@@ -27,7 +27,7 @@ LeetCode Practice
 |026|2016-12-28|[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[removeDuplicates.py](026-remove-duplicates-from-sorted-array/)|
 |027|2016-12-28|[remove-element](https://leetcode.com/problems/remove-element/)|[removeElement.js](027-remove-element/)|
 |028|2016-12-28|[implement-strstr](https://leetcode.com/problems/implement-strstr/)|[Strstr.py](028-implement-strstr/)|
-|034||[search-for-a-range](https://leetcode.com/problems/search-for-a-range/)|[searchRange.py](034-search-for-a-range/)|
+|034|2017-02-18|[search-for-a-range](https://leetcode.com/problems/search-for-a-range/)|[searchRange.py](034-search-for-a-range/)|
 |036|2016-12-29|[valid-sudoku](https://leetcode.com/problems/valid-sudoku/)|[isValidSudoku.js](036-valid-sudoku/)|
 |038|2016-12-29|[count-and-say](https://leetcode.com/problems/count-and-say/)|[countAndSay.py](038-count-and-say/)|
 |058|2017-01-07|[length-of-last-word](https://leetcode.com/problems/length-of-last-word/)|[lengthOfLastWord.py](058-length-of-last-word/)|
