@@ -30,6 +30,8 @@ LeetCode Practice
 |034|2017-02-18|[search-for-a-range](https://leetcode.com/problems/search-for-a-range/)|[searchRange.py](034-search-for-a-range/)|
 |036|2016-12-29|[valid-sudoku](https://leetcode.com/problems/valid-sudoku/)|[isValidSudoku.js](036-valid-sudoku/)|
 |038|2016-12-29|[count-and-say](https://leetcode.com/problems/count-and-say/)|[countAndSay.py](038-count-and-say/)|
+|039|2017-02-21|[combination-sum](https://leetcode.com/problems/combination-sum/)|[combinationSum.py](039-combination-sum/)|
+|040|2017-02-21|[combination-sum-ii](https://leetcode.com/problems/combination-sum-ii/)|[combinationSum2.py](040-combination-sum-ii/)|
 |058|2017-01-07|[length-of-last-word](https://leetcode.com/problems/length-of-last-word/)|[lengthOfLastWord.py](058-length-of-last-word/)|
 |066|2017-01-07|[plus-one](https://leetcode.com/problems/plus-one/)|[plusOne.js](066-plus-one/)|
 |067|2017-01-07|[add-binary](https://leetcode.com/problems/add-binary/)|[addBinary.py](067-add-binary/)|

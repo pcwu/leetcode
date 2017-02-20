@@ -5,20 +5,20 @@ class Solution(object):
         :type target: int
         :rtype: List[List[int]]
         """
-        results = set()
+        results = []
 
         def findCombination(start, target, result, results):
             if target == 0:
-                results.add(tuple(result))
+                results.append(result)
             for i in range(start, len(candidates)):
                 if target < candidates[i]:
                     return
-                if not (i > start and candidates[i] == candidates[start]):
+                if not (i > start and candidates[i] == candidates[i-1]):
                     findCombination(i + 1, target - candidates[i], result + [candidates[i]], results)
 
         candidates.sort()
         findCombination(0, target, [], results)
-        return sorted([list(t) for t in results])
+        return results
 
 
 if __name__ == '__main__':
