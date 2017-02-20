@@ -21,6 +21,6 @@ class Solution(object):
 
 
 if __name__ == '__main__':
-    print Solution().combinationSum([2, 3], 7) # == [[2, 2, 3]]
-    print Solution().combinationSum([2, 3, 5], 7) # == [[2, 2, 3], [2, 5]]
-    print Solution().combinationSum([2, 3, 6, 7], 7) # == [[2, 2, 3], [7]]
+    assert Solution().combinationSum([2, 3], 7) == [[2, 2, 3]]
+    assert Solution().combinationSum([2, 3, 5], 7) == [[2, 2, 3], [2, 5]]
+    assert Solution().combinationSum([2, 3, 6, 7], 7) == [[2, 2, 3], [7]]
