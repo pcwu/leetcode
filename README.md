@@ -32,6 +32,10 @@ LeetCode Practice
 |038|2016-12-29|[count-and-say](https://leetcode.com/problems/count-and-say/)|[countAndSay.py](038-count-and-say/)|
 |039|2017-02-21|[combination-sum](https://leetcode.com/problems/combination-sum/)|[combinationSum.py](039-combination-sum/)|
 |040|2017-02-21|[combination-sum-ii](https://leetcode.com/problems/combination-sum-ii/)|[combinationSum2.py](040-combination-sum-ii/)|
+|046|2017-02-21|[permutations](https://leetcode.com/problems/permutations/)|[permute.py](046-permutations/)|
+|047|2017-02-21|[permutations-ii](https://leetcode.com/problems/permutations-ii/)|[permuteUnique.py](047-permutations-ii/)|
+|048|2017-02-25|[rotate-image](https://leetcode.com/problems/rotate-image/)|[rotate.py](048-rotate-image/)|
+|049|2017-02-25|[anagrams](https://leetcode.com/problems/anagrams/)|[groupAnagrams.py](049-anagrams/)|
 |058|2017-01-07|[length-of-last-word](https://leetcode.com/problems/length-of-last-word/)|[lengthOfLastWord.py](058-length-of-last-word/)|
 |066|2017-01-07|[plus-one](https://leetcode.com/problems/plus-one/)|[plusOne.js](066-plus-one/)|
 |067|2017-01-07|[add-binary](https://leetcode.com/problems/add-binary/)|[addBinary.py](067-add-binary/)|
