@@ -9,4 +9,3 @@ class Solution(object):
             if arr[len(arr)-i-1]:
                 return len(arr[len(arr)-i-1])
         return 0
-        
