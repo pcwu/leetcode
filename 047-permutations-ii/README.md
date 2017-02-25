@@ -25,7 +25,7 @@ Solution
 
 ```python
 class Solution(object):
-    def permute(self, nums):
+    def permuteUnique(self, nums):
         """
         :type nums: List[int]
         :rtype: List[List[int]]
@@ -34,7 +34,7 @@ class Solution(object):
             for i in range(len(nums)):
                 if len(nums) == 1:
                     results.append(current + nums)
-                else:
+                elif not (i > 0 and nums[i] == nums[i - 1]):
                     permuteIt(nums[:i] + nums[i + 1:], current + [nums[i]], results)
 
         results = []
