@@ -1,6 +1,8 @@
 LeetCode Practice
 =====================
 
+*   #### [My LeetCode Profile](https://leetcode.com/pcwu7/)
+
 |No|Date|Problem|Code|
 |----|------|------|------|
 |001|2016-12-28|[two-sum](https://leetcode.com/problems/two-sum/)|[twoSum.js](001-two-sum/)|
@@ -36,7 +38,10 @@ LeetCode Practice
 |047|2017-02-21|[permutations-ii](https://leetcode.com/problems/permutations-ii/)|[permuteUnique.py](047-permutations-ii/)|
 |048|2017-02-25|[rotate-image](https://leetcode.com/problems/rotate-image/)|[rotate.py](048-rotate-image/)|
 |049|2017-02-25|[anagrams](https://leetcode.com/problems/anagrams/)|[groupAnagrams.py](049-anagrams/)|
+|055|2017-02-26|[jump-game](https://leetcode.com/problems/jump-game/)|[canJump.py](055-jump-game/)|
+|056|2017-02-26|[merge-intervals](https://leetcode.com/problems/merge-intervals/)|[merge.py](056-merge-intervals/)|
 |058|2017-01-07|[length-of-last-word](https://leetcode.com/problems/length-of-last-word/)|[lengthOfLastWord.py](058-length-of-last-word/)|
+|061|2017-02-26|[rotate-list](https://leetcode.com/problems/rotate-list/)|[rotateRight.py](061-rotate-list/)|
 |066|2017-01-07|[plus-one](https://leetcode.com/problems/plus-one/)|[plusOne.js](066-plus-one/)|
 |067|2017-01-07|[add-binary](https://leetcode.com/problems/add-binary/)|[addBinary.py](067-add-binary/)|
 |070|2017-01-07|[climbing-stairs](https://leetcode.com/problems/climbing-stairs/)|[climbStairs.js](070-climbing-stairs/)|
