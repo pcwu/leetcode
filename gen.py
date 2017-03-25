@@ -7,7 +7,7 @@ import re
 print """LeetCode Practice
 =====================
 
-*   #### [My LeetCode Profile](https://leetcode.com/pcwu7/)
+*   [My LeetCode Profile](https://leetcode.com/pcwu7/)
 
 |No|Date|Problem|Code|
 |----|------|------|------|"""
