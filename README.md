@@ -38,10 +38,13 @@ LeetCode Practice
 |047|2017-02-21|[permutations-ii](https://leetcode.com/problems/permutations-ii/)|[permuteUnique.py](047-permutations-ii/)|
 |048|2017-02-25|[rotate-image](https://leetcode.com/problems/rotate-image/)|[rotate.py](048-rotate-image/)|
 |049|2017-02-25|[anagrams](https://leetcode.com/problems/anagrams/)|[groupAnagrams.py](049-anagrams/)|
+|053|2017-03-25|[maximum-subarray](https://leetcode.com/problems/maximum-subarray/)|[maxSubArray.py](053-maximum-subarray/)|
 |055|2017-02-26|[jump-game](https://leetcode.com/problems/jump-game/)|[canJump.py](055-jump-game/)|
 |056|2017-02-26|[merge-intervals](https://leetcode.com/problems/merge-intervals/)|[merge.py](056-merge-intervals/)|
 |058|2017-01-07|[length-of-last-word](https://leetcode.com/problems/length-of-last-word/)|[lengthOfLastWord.py](058-length-of-last-word/)|
 |061|2017-02-26|[rotate-list](https://leetcode.com/problems/rotate-list/)|[rotateRight.py](061-rotate-list/)|
+|062|2017-03-25|[unique-paths](https://leetcode.com/problems/unique-paths/)|[uniquePaths.py](062-unique-paths/)|
+|063|2017-03-25|[unique-paths-ii](https://leetcode.com/problems/unique-paths-ii/)|[uniquePathsWithObstacles.py](063-unique-paths-ii/)|
 |066|2017-01-07|[plus-one](https://leetcode.com/problems/plus-one/)|[plusOne.js](066-plus-one/)|
 |067|2017-01-07|[add-binary](https://leetcode.com/problems/add-binary/)|[addBinary.py](067-add-binary/)|
 |070|2017-01-07|[climbing-stairs](https://leetcode.com/problems/climbing-stairs/)|[climbStairs.js](070-climbing-stairs/)|
