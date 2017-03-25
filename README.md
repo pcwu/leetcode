@@ -50,6 +50,7 @@ LeetCode Practice
 |070|2017-01-07|[climbing-stairs](https://leetcode.com/problems/climbing-stairs/)|[climbStairs.js](070-climbing-stairs/)|
 |083|2017-01-07|[remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[deleteDuplicates.js](083-remove-duplicates-from-sorted-list/)|
 |088|2017-01-07|[merge-sorted-array](https://leetcode.com/problems/merge-sorted-array/)|[merge.js](088-merge-sorted-array/)|
+|091|2017-03-26|[decode-ways](https://leetcode.com/problems/decode-ways/)|[numDecodings.py](091-decode-ways/)|
 |100|2017-01-07|[same-tree](https://leetcode.com/problems/same-tree/)|[isSameTree.js](100-same-tree/)|
 |101|2017-02-14|[symmetric-tree](https://leetcode.com/problems/symmetric-tree/)|[isSymmetric.py](101-symmetric-tree/)|
 |104|2017-02-14|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[maxDepth.py](104-maximum-depth-of-binary-tree/)|
