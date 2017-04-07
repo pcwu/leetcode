@@ -9,7 +9,7 @@ print """LeetCode Practice
 
 *   [My LeetCode Profile](https://leetcode.com/pcwu7/)
 
-|No|Date|Problem|Code|
+|No|Date|Code|Problem|
 |----|------|------|------|"""
 
 for root, subdirs, files in os.walk("./"):
@@ -21,4 +21,4 @@ for root, subdirs, files in os.walk("./"):
             name = match.group(2)
             code = match.group(3)
             date = os.popen("git log --date=format:'%%Y-%%m-%%d' --format=%%ad %s | tail -1 " % path).read().rstrip()
-            print "|%s|%s|[%s](https://leetcode.com/problems/%s/)|[%s](%s/)|" % (num, date, name, name, code, path.split("/")[1])
+            print "|%s|%s|[%s](%s/)|[%s](https://leetcode.com/problems/%s/)|" % (num, date, code, path.split("/")[1], name, name)
